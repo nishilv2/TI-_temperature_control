@@ -1,0 +1,1 @@
+"./12864.obj" "./DHT11.obj" "./L298N.obj" "./main.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
